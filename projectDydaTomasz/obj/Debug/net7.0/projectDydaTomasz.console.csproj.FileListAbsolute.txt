@@ -1,0 +1,175 @@
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.console.csproj.AssemblyReference.cache
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.console.AssemblyInfoInputs.cache
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.console.AssemblyInfo.cs
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.console.csproj.CoreCompileInputs.cache
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.exe
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.deps.json
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.runtimeconfig.json
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.pdb
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\DnsClient.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\SharpCompress.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\Snappier.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\ZstdSharp.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Core.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Core.pdb
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.csproj.CopyComplete
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\refint\projectDydaTomasz.Console.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.pdb
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.genruntimeconfig.cache
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\ref\projectDydaTomasz.Console.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.exe
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.deps.json
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.runtimeconfig.json
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.pdb
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\DnsClient.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\Snappier.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Core.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Core.pdb
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.csproj.AssemblyReference.cache
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.AssemblyInfoInputs.cache
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.AssemblyInfo.cs
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.csproj.CoreCompileInputs.cache
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.sourcelink.json
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.csproj.CopyComplete
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\refint\projectDydaTomasz.Console.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.pdb
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.genruntimeconfig.cache
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\ref\projectDydaTomasz.Console.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Data.SQLite.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t.dyda\Documents\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\EntityFramework.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Data.SQLite.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.CodeDom.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.exe
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.deps.json
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.runtimeconfig.json
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Console.pdb
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\AWSSDK.Core.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\DnsClient.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\EntityFramework.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Bson.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Driver.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\SharpCompress.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\Snappier.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Data.SQLite.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.CodeDom.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\ZstdSharp.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Core.dll
+E:\projectDydaTomasz\projectDydaTomasz\bin\Debug\net7.0\projectDydaTomasz.Core.pdb
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.csproj.AssemblyReference.cache
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.AssemblyInfoInputs.cache
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.AssemblyInfo.cs
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.csproj.CoreCompileInputs.cache
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.csproj.CopyComplete
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.dll
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\refint\projectDydaTomasz.Console.dll
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.pdb
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\projectDydaTomasz.Console.genruntimeconfig.cache
+E:\projectDydaTomasz\projectDydaTomasz\obj\Debug\net7.0\ref\projectDydaTomasz.Console.dll

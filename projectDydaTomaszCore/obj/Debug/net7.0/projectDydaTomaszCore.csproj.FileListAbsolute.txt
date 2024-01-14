@@ -1,0 +1,24 @@
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\bin\Debug\net7.0\projectDydaTomaszCore.deps.json
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\bin\Debug\net7.0\projectDydaTomaszCore.dll
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\bin\Debug\net7.0\projectDydaTomaszCore.pdb
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.csproj.AssemblyReference.cache
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.AssemblyInfoInputs.cache
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.AssemblyInfo.cs
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.csproj.CoreCompileInputs.cache
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.dll
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\refint\projectDydaTomaszCore.dll
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.pdb
+D:\Dane\Studia INF\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\ref\projectDydaTomaszCore.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.csproj.AssemblyReference.cache
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.AssemblyInfoInputs.cache
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.AssemblyInfo.cs
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.csproj.CoreCompileInputs.cache
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\refint\projectDydaTomaszCore.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\projectDydaTomaszCore.pdb
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\bin\Debug\net7.0\projectDydaTomaszCore.deps.json
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\bin\Debug\net7.0\projectDydaTomaszCore.dll
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\bin\Debug\net7.0\projectDydaTomaszCore.pdb
+D:\Dane\Studia INF - repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomaszCore\obj\Debug\net7.0\ref\projectDydaTomaszCore.dll
