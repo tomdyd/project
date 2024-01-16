@@ -1,17 +1,7 @@
-﻿using MongoDB.Driver;
-using projectDydaTomasz.Core.Models;
-using projectDydaTomaszCore.Interfaces;
+﻿using projectDydaTomaszCore.Interfaces;
 using projectDydaTomaszCore.Models;
-using SharpCompress.Common;
-using System.ComponentModel.DataAnnotations;
 using System.Data;
-using System.Data.Entity;
-using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Data.SQLite;
-using System.Reflection;
-using System.Reflection.Metadata;
-using System.Text.Json;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace projectDydaTomasz.Core
 {
@@ -53,6 +43,8 @@ namespace projectDydaTomasz.Core
 
                     cmd.ExecuteNonQuery();
                 }
+
+                connection.Close();
             }
         }
 
@@ -70,11 +62,15 @@ namespace projectDydaTomasz.Core
 
                     cmd.ExecuteReader();
                 }
+
+                connection.Close();
             }
         }
 
         public List<T> GetAllDataList()
         {
+            CheckDatabase();
+
             List<T> dataList = new List<T>();
             var dataname = typeof(T).Name;
 
@@ -102,12 +98,15 @@ namespace projectDydaTomasz.Core
 
                     }
                 }
+
+                connection.Close();
             }
             return dataList;
         }
 
         public T GetFilteredData(string property, string searchingTerm)
         {
+            CheckDatabase();
             var dataname = typeof(T).Name;
 
             using (var connection = new SQLiteConnection(_connectionString))
@@ -135,67 +134,15 @@ namespace projectDydaTomasz.Core
                         }
                     }
                 }
+                connection.Close();
             }
             return default;
         }
 
         public List<T> GetFilteredDataList(string property, string searchingTerm)
         {
-            List<T> dataList = new List<T>();
-
-            //using (var connection = new SQLiteConnection(_connectionString))
-            //{
-            //    connection.Open();
-
-            //    using (var cmd = new SQLiteCommand(connection))
-            //    {
-            //        var query = "SELECT Cars.carId, Cars.carNumber, Cars.carBrand, Cars.carModel," +
-            //            "Cars.carProductionYear, Cars.engineCapacity, Users.userId, Users.username, Users.passwordHash, Users.email FROM Cars " +
-            //              "INNER JOIN Users ON Cars.user = Users.userId " +
-            //              "WHERE carId = @carId";
-
-            //        cmd.CommandText = $"SELECT * FROM Cars INNER JOIN Users ON Cars.user = Users.userId WHERE carId = @carId";
-            //        cmd.Parameters.AddWithValue("carId", searchingTerm);
-
-            //        using (SQLiteDataReader reader = cmd.ExecuteReader())
-            //        {
-            //            if (reader.Read())
-            //            {
-            //                string carId = reader["carId"].ToString();
-            //                string carNumber = reader["carNumber"].ToString();
-            //                string carBrand = reader["carBrand"].ToString();
-            //                string carModel = reader["carModel"].ToString();
-            //                string carProductionYear = reader["carProductionYear"].ToString();
-            //                string engineCapacity = reader["engineCapacity"].ToString();
-            //                string userId = reader["userId"].ToString();
-            //                string username = reader["username"].ToString();
-            //                string passwordHash = reader["passwordHash"].ToString();
-            //                string email = reader["email"].ToString();
-
-            //                var user = new User()
-            //                {
-            //                    userId = userId,
-            //                    username = username,
-            //                    passwordHash = passwordHash,
-            //                    email = email
-            //                };
-
-            //                var newCar = new Car()
-            //                {
-            //                    carId = carId,
-            //                    carNumber = int.Parse(carNumber),
-            //                    carBrand = carBrand,
-            //                    carModel = carModel,
-            //                    carProductionYear = carProductionYear,
-            //                    engineCapacity = engineCapacity,
-            //                    user = user
-            //                };
-
-            //                dataList.Add(newCar);
-            //            }
-            //        }
-            //    }
-            //}
+            CheckDatabase();
+            List<T> dataList = new List<T>();        
 
             var dataType = typeof(T).Name;
             using (var connection = new SQLiteConnection(_connectionString))
@@ -238,10 +185,12 @@ namespace projectDydaTomasz.Core
                         }
                     }
                 }
+                connection.Close();
             }
 
             return dataList;            
         }
+
         public void UpdateData(string property, string searchTerm, T updatingData)
         {
             var dataType = typeof(T).Name;
@@ -260,6 +209,58 @@ namespace projectDydaTomasz.Core
                         cmd.Parameters.AddWithValue($"@{prop.Name}", prop.GetValue(updatingData));
                     }
                     cmd.ExecuteNonQuery();
+                }
+
+                connection.Close();
+            }
+        }
+
+        private void CheckDatabase()
+        {
+            var path = Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.Parent.FullName + "\\sqlite.db";
+            if (File.Exists(path))
+            {
+
+            }
+            else
+            {
+                SQLiteConnection.CreateFile($"{path}");
+
+                // Utwórz połączenie do bazy danych
+                using (SQLiteConnection connection = new SQLiteConnection($"Data Source={path};Version=3;"))
+                {
+                    connection.Open();
+
+                    using (SQLiteCommand command = new SQLiteCommand(connection))
+                    {
+                        command.CommandText =
+                            @"CREATE TABLE users (
+                                            userId TEXT NOT NULL,
+                                            username TEXT NOT NULL,
+                                            passwordHash TEXT NOT NULL,
+                                            email TEXT NOT NULL,
+                                            PRIMARY KEY(userId)
+                                            );
+
+                                            CREATE TABLE cars (
+                                            carId TEXT NOT NULL,
+                                            carModel TEXT NOT NULL,
+                                            carProductionYear TEXT NOT NULL,
+                                            engineCapacity TEXT NOT NULL,
+                                            user TEXT NOT NULL,
+                                            PRIMARY KEY(carId));
+
+                                            CREATE TABLE apartments (
+                                            apartmentId TEXT NOT NULL,
+                                            surface TEXT NOT NULL,
+                                            cost TEXT NOT NULL,
+                                            user TEXT NOT NULL,
+                                            PRIMARY KEY(apartmentId));";
+
+                        command.ExecuteNonQuery();
+                    }
+
+                    connection.Close();
                 }
             }
         }

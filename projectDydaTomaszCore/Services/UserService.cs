@@ -33,11 +33,8 @@ namespace projectDydaTomaszCore.Services
                     Console.ReadLine();
                 }
             }
-            else
-            {
-                Console.WriteLine("Niepoprawne dane!");
-                Console.ReadLine();
-            }
+            Console.WriteLine("Niepoprawne dane!");
+            Console.ReadLine();
             return null;
         }
 

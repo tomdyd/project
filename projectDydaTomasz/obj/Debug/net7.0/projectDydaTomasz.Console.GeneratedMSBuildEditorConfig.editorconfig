@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = projectDydaTomasz.Console
-build_property.ProjectDir = E:\projectDydaTomasz\projectDydaTomasz\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\Dane\Studia-INF---repo\Semestr III\Programowanie - Szematowicz\projectDydaTomasz\projectDydaTomasz\

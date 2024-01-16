@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wimjDbkp1NxFrvT1ot7bBBjwghUzAg/KeLo5SY8aejecJno5GwSjXeaQqcoBBd+22I05kkntoJk6HP1YJbIDdQ==",
+  "dgSpecHash": "jtou/WeDZ7UyMgxPzfN/1HE6n9SfLqQVCHoseXajkR82DRgUKko5FszUNbxbaZbAyXzbk8ogldRz6GmCBufbZA==",
   "success": true,
-  "projectFilePath": "E:\\projectDydaTomasz\\projectDydaTomaszCore\\projectDydaTomasz.Core.csproj",
+  "projectFilePath": "D:\\Dane\\Studia-INF---repo\\Semestr III\\Programowanie - Szematowicz\\projectDydaTomasz\\projectDydaTomaszCore\\projectDydaTomasz.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomek\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Tomek\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
@@ -40,10 +40,7 @@
     "C:\\Users\\Tomek\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\Tomek\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\Tomek\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\Tomek\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
-    "C:\\Users\\Tomek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Tomek\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Tomek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+    "C:\\Users\\Tomek\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
   "logs": []
 }

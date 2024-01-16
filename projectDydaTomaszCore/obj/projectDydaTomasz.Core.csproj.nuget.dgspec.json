@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projectDydaTomasz\\projectDydaTomaszCore\\projectDydaTomasz.Core.csproj": {}
+    "D:\\Dane\\Studia-INF---repo\\Semestr III\\Programowanie - Szematowicz\\projectDydaTomasz\\projectDydaTomaszCore\\projectDydaTomasz.Core.csproj": {}
   },
   "projects": {
-    "E:\\projectDydaTomasz\\projectDydaTomaszCore\\projectDydaTomasz.Core.csproj": {
+    "D:\\Dane\\Studia-INF---repo\\Semestr III\\Programowanie - Szematowicz\\projectDydaTomasz\\projectDydaTomaszCore\\projectDydaTomasz.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projectDydaTomasz\\projectDydaTomaszCore\\projectDydaTomasz.Core.csproj",
+        "projectUniqueName": "D:\\Dane\\Studia-INF---repo\\Semestr III\\Programowanie - Szematowicz\\projectDydaTomasz\\projectDydaTomaszCore\\projectDydaTomasz.Core.csproj",
         "projectName": "projectDydaTomasz.Core",
-        "projectPath": "E:\\projectDydaTomasz\\projectDydaTomaszCore\\projectDydaTomasz.Core.csproj",
+        "projectPath": "D:\\Dane\\Studia-INF---repo\\Semestr III\\Programowanie - Szematowicz\\projectDydaTomasz\\projectDydaTomaszCore\\projectDydaTomasz.Core.csproj",
         "packagesPath": "C:\\Users\\Tomek\\.nuget\\packages\\",
-        "outputPath": "E:\\projectDydaTomasz\\projectDydaTomaszCore\\obj\\",
+        "outputPath": "D:\\Dane\\Studia-INF---repo\\Semestr III\\Programowanie - Szematowicz\\projectDydaTomasz\\projectDydaTomaszCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Tomek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,26 +60,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
